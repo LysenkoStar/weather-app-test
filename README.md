@@ -7,7 +7,7 @@
 ## ⚙️ Установка и настройка
 
 ```bash
-git clone https://github.com/your-username/weatherapp.git
+git clone https://github.com/LysenkoStar/weather-app-test
 
 cd weatherapp/application
 
